@@ -1,0 +1,30 @@
+{
+  "_readme": "Конфиг мода HinexFeatures. Мод читает его при каждом запуске игры. Подробности — README.md",
+
+  "tos": {
+    "url": "https://tos.hinex-server.ru/",
+    "updated": "2026-09-26"
+  },
+
+  "resourcepacks": [
+    {
+      "id": "hinex",
+      "name": "Hinex",
+      "url": "https://raw.githubusercontent.com/CHANGE_ME/hinex-client/main/packs/hinex.zip",
+      "mirrors": [
+        "https://cdn.jsdelivr.net/gh/CHANGE_ME/hinex-client@main/packs/hinex.zip"
+      ],
+      "sha1": ""
+    }
+  ],
+
+  "servers": [
+    { "name": "HINEX | HUB", "ip": "hinex.joinserver.xyz", "style": "main" },
+    { "name": "HINEX | MAIN & OFF-SEASON", "ip": "mc.hinex-server.ru", "style": "main" },
+    { "separator": "Резервные сервера" },
+    { "name": "HINEX | RESERV", "ip": "hinexreserv.joinserver.xyz", "style": "reserve" },
+    { "name": "HINEX | RESERV2 (Shield)", "ip": "shield.hinex-server.ru", "style": "reserve" }
+  ],
+
+  "trustedHosts": ["hinex-server.ru"]
+}
