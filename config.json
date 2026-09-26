@@ -10,9 +10,9 @@
     {
       "id": "hinex",
       "name": "Hinex",
-      "url": "https://raw.githubusercontent.com/CHANGE_ME/hinex-client/main/packs/hinex.zip",
+      "url": "https://raw.githubusercontent.com/Jaikop/hinex-features/main/packs/hinex.zip",
       "mirrors": [
-        "https://cdn.jsdelivr.net/gh/CHANGE_ME/hinex-client@main/packs/hinex.zip"
+        "https://cdn.jsdelivr.net/gh/Jaikop/hinex-features@main/packs/hinex.zip"
       ],
       "sha1": ""
     }
@@ -24,7 +24,5 @@
     { "separator": "Резервные сервера" },
     { "name": "HINEX | RESERV", "ip": "hinexreserv.joinserver.xyz", "style": "reserve" },
     { "name": "HINEX | RESERV2 (Shield)", "ip": "shield.hinex-server.ru", "style": "reserve" }
-  ],
-
-  "trustedHosts": ["hinex-server.ru"]
+  ]
 }
