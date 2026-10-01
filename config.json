@@ -3,10 +3,10 @@
 
   "tos": {
     "url": "https://tos.hinex-server.ru/",
-    "updated": "2026-09-29"
+    "updated": "2026-10-01"
   },
   "mod": {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "minecraft": "26.3",
     "changelog": [],
     "files": {
