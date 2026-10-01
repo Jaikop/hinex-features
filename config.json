@@ -5,7 +5,25 @@
     "url": "https://tos.hinex-server.ru/",
     "updated": "2026-09-29"
   },
+  "mod": {
+    "version": "1.0.0",
+    "minecraft": "26.3",
+    "changelog": [],
+    "files": {
+      "fabric":   { "url": "https://github.com/Jaikop/hinex-features/releases/download/mod-1.0.0/HinexFeatures-fabric-1.0.0.jar", "sha256": "" },
+      "neoforge": { "url": "https://github.com/Jaikop/hinex-features/releases/download/mod-1.0.0/HinexFeatures-neoforge-1.0.0.jar", "sha256": "" },
+      "forge":    { "url": "https://github.com/Jaikop/hinex-features/releases/download/mod-1.0.0/HinexFeatures-forge-1.0.0.jar", "sha256": "" }
+    }
+  },
 
+  "discord": {
+    "app_id": "",
+    "image": "https://raw.githubusercontent.com/Jaikop/hinex-features/main/discord/hinex.png",
+    "image_text": "HINEX",
+    "buttons": [
+      { "label": "Telegram", "url": "https://t.me/hinex_minecraft" }
+    ]
+  },
   "resourcepacks": [
     {
       "id": "hinex",
