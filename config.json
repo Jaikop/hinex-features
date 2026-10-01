@@ -15,7 +15,7 @@
       "forge":    { "url": "https://github.com/Jaikop/hinex-features/releases/download/mod-1.0.0/HinexFeatures-forge-1.0.0.jar", "sha256": "" }
     }
   },
-  "blocked_mods": ["freecam","autotem"],
+  "blocked_mods": ["freecam","zergatulfreecam","easy-freecam","freecam_by_jasonzli","autototem","peek"],
   "discord": {
     "app_id": "1555167324955480156",
     "image": "https://raw.githubusercontent.com/Jaikop/hinex-features/main/discord/hinex.png",
