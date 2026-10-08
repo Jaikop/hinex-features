@@ -6,13 +6,13 @@
     "updated": "2026-10-01"
   },
   "mod": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "minecraft": "26.3",
     "changelog": ["Обновление безопасности"],
     "files": {
-      "fabric":   { "url": "https://github.com/Jaikop/hinex-features/releases/download/fabric-1.0.1/HinexFeatures-fabric-1.0.1.jar", "sha256": "d70784ccde372d874408379a0bebe4fdbed1984360fd8c1d05fda58783cf383e" },
-      "neoforge": { "url": "https://github.com/Jaikop/hinex-features/releases/download/mod-1.0.0/HinexFeatures-neoforge-1.0.0.jar", "sha256": "" },
-      "forge":    { "url": "https://github.com/Jaikop/hinex-features/releases/download/mod-1.0.0/HinexFeatures-forge-1.0.0.jar", "sha256": "" }
+      "fabric":   { "url": "https://github.com/Jaikop/hinex-features/releases/download/1.0.2/HinexFeatures-fabric-1.0.2.jar", "sha256": "f998ea6ae1b8d4d241dfe63b240595dbaf0dde0fcb0b22aa4cb0ff6280e8e729" },
+      "neoforge": { "url": "https://github.com/Jaikop/hinex-features/releases/download/1.0.2/HinexFeatures-neoforge-1.0.2.jar", "sha256": "ec430e3e60a9cb634f2a953f27ac92fe25dac2267cce721c122aa3562c62b290" },
+      "forge":    { "url": "https://github.com/Jaikop/hinex-features/releases/download/1.0.2/HinexFeatures-forge-1.0.2.jar", "sha256": "6ec4649825c11712469f5606cc0f26c25149be9d16032f733c0d5fcd2c381398" }
     }
   },
   "blocked_mods": ["freecam","zergatulfreecam","easy-freecam","freecam_by_jasonzli","autototem","peek"],
