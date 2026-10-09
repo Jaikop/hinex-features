@@ -21,7 +21,7 @@
     "image": "https://raw.githubusercontent.com/Jaikop/hinex-features/main/discord/hinex.png",
     "image_text": "HINEX",
     "buttons": [
-      { "label": "Telegram", "url": "https://t.me/hinex_minecraft" }
+      { "label": "Узнать больше", "url": "https://hinex-server.ru" }
     ]
   },
   "resourcepacks": [
