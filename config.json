@@ -6,7 +6,7 @@
     "updated": "2026-10-01"
   },
   "mod": {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "minecraft": "26.3",
     "changelog": ["Обновление безопасности"],
     "files": {
