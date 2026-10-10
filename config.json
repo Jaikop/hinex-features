@@ -37,8 +37,8 @@
   ],
 
   "servers": [
-    { "name": "HINEX | HUB", "ip": "hinex.joinserver.xyz", "style": "main" },
-    { "name": "HINEX | MAIN & OFF-SEASON", "ip": "mc.hinex-server.ru", "style": "main" },
+    { "name": "HINEX | HUB", "ip": "mc.hinex-server.ru", "style": "main" },
+    { "name": "HINEX | MAIN & OFF-SEASON", "ip": "season.hinex-server.ru", "style": "main" },
     { "separator": "Резервные сервера" },
     { "name": "HINEX | RESERV", "ip": "hinexreserv.joinserver.xyz", "style": "reserve" },
     { "name": "HINEX | RESERV2 (Shield)", "ip": "shield.hinex-server.ru", "style": "reserve" }
