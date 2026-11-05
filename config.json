@@ -10,9 +10,9 @@
     "minecraft": "26.3",
     "changelog": [],
     "files": {
-      "fabric":   { "url": "https://github.com/Jaikop/hinex-features/releases/download/1.0.8/HinexFeatures-fabric-1.0.8.jar", "sha256": "c36a7599d931245aa1810852de4a8bbf257949713f6282a1c2973b7917655ff6" },
-      "neoforge": { "url": "https://github.com/Jaikop/hinex-features/releases/download/1.0.8/HinexFeatures-neoforge-1.0.8.jar", "sha256": "fca9b375ea869eccdcf710bbeee9c76c336db5f776af9320c58f578d6897f791" },
-      "forge":    { "url": "https://github.com/Jaikop/hinex-features/releases/download/1.0.8/HinexFeatures-forge-1.0.8.jar", "sha256": "f7f976b65887df2dda0561830b1a2ebd0ce1f65c3eab7bcde0eac32989c8b85b" }
+      "fabric":   { "url": "https://github.com/Jaikop/hinex-features/releases/download/1.0.9/HinexFeatures-fabric-1.0.9.jar", "sha256": "701bbd89b76c61d23e17ea6755d4f4db336fd80ac40a2ec7acb07d2c8f21d6eb" },
+      "neoforge": { "url": "https://github.com/Jaikop/hinex-features/releases/download/1.0.9/HinexFeatures-neoforge-1.0.9.jar", "sha256": "e686e6c8a3ba552aa9154a02b8f4b5ba1cf25233b05208907d378f2cbbfc50e3" },
+      "forge":    { "url": "https://github.com/Jaikop/hinex-features/releases/download/1.0.9/HinexFeatures-forge-1.0.9.jar", "sha256": "cb696642fd6f6bb2113a9438a2f313512a99ef58f5cbab5dae00fde35c8fba7c" }
     }
   },
   "blocked_mods": ["freecam","zergatulfreecam","easy-freecam","freecam_by_jasonzli","autototem","peek"],
@@ -32,7 +32,7 @@
       "mirrors": [
         "https://cdn.jsdelivr.net/gh/Jaikop/hinex-features@main/packs/hinex.zip"
       ],
-      "sha1": "fcdb5f7efc65fc3fdad3041dad1925a72820ac39"
+      "sha1": "d1da202d355d5f0259d2d9469c5896be89494d7f"
     }
   ],
 
