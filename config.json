@@ -6,12 +6,12 @@
     "updated": "2026-10-01"
   },
   "mod": {
-    "version": "1.0.12",
+    "version": "1.0.13",
     "minecraft": "26.3",
     "changelog": [],
     "files": {
-      "fabric":   { "url": "https://github.com/Jaikop/hinex-features/releases/download/1.0.12/HinexFeatures-fabric-1.0.12.jar", "sha256": "62861f8b14668cff1d6e51ab8ebf5152935bd47fe5d9efd6116aefc42c372137" },
-      "neoforge": { "url": "https://github.com/Jaikop/hinex-features/releases/download/1.0.12/HinexFeatures-neoforge-1.0.12.jar", "sha256": "89716282153298a622ecca96cd418733f3597b7f2c31b3fcd39d34390551e3e7" },
+      "fabric":   { "url": "https://github.com/Jaikop/hinex-features/releases/download/1.0.13/HinexFeatures-fabric-1.0.13.jar", "sha256": "c7d444385cd6cfc2387ea98ce05a6b0f60cf1d696a2ae996bf714145c0a2a1ab" },
+      "neoforge": { "url": "https://github.com/Jaikop/hinex-features/releases/download/1.0.13/HinexFeatures-neoforge-1.0.13.jar", "sha256": "8f6888018ef8ade4dc1b329b2192073300d89933e6781d57cdb1d35d10918c46" },
       "forge":    { "url": "https://github.com/Jaikop/hinex-features/releases/download/1.0.9/HinexFeatures-forge-1.0.9.jar", "sha256": "cb696642fd6f6bb2113a9438a2f313512a99ef58f5cbab5dae00fde35c8fba7c" }
     }
   },
@@ -32,7 +32,7 @@
       "mirrors": [
         "https://cdn.jsdelivr.net/gh/Jaikop/hinex-features@main/packs/hinex.zip"
       ],
-      "sha1": "86e3b862b342b988eb4bc99fbe0e15a270fa830e"
+      "sha1": "6eb9ee1589fd24f5cff0be74372671dfe94e3739"
     }
   ],
 
